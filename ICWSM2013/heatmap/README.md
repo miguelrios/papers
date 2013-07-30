@@ -20,7 +20,7 @@ Our study serves a combination of the second and third purposes. User growth is 
 
 [p] ![image](heatmap_imgs/newyorkcity.png) ![image](heatmap_imgs/tokyo.png) ![image](heatmap_imgs/riyadh.png) ![image](heatmap_imgs/istanbul.png) ![image](heatmap_imgs/jakarta.png) ![image](heatmap_imgs/london.png) ![image](heatmap_imgs/buenosaires.png) ![Heatmap visualizations of Twitter activity in eight cities around the world. The *x*-axes show day of year, and the *y*-axes show time of day (local time); darker shading indicates higher levels of activity.](heatmap_imgs/rio.png "fig:") [viz:cities]
 
-[t] ![Hierarchical clustering of Twitter activity in 50 cities around the world.](dendrograms/dendogram_50_bottom_clean_shorter.pdf "fig:") [viz:dendrogram]
+[t] ![Hierarchical clustering of Twitter activity in 50 cities around the world.](dendrograms/dendogram_50_bottom_clean_shorter.png "fig:") [viz:dendrogram]
 
 Data Preparation and Analysis
 =============================
